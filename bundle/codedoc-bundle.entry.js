@@ -17,16 +17,16 @@ import { copyLineLinks } from '/home/runner/work/sidmontu.coding.blog/sidmontu.c
 import { ToCToggle } from '/home/runner/work/sidmontu.coding.blog/sidmontu.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js';
 import { DarkModeSwitch } from '/home/runner/work/sidmontu.coding.blog/sidmontu.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js';
 import { ConfigTransport } from '/home/runner/work/sidmontu.coding.blog/sidmontu.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js';
-import { ArticleCard } from '/home/runner/work/sidmontu.coding.blog/sidmontu.coding.blog/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/article-card/index.js';
 import { Author } from '/home/runner/work/sidmontu.coding.blog/sidmontu.coding.blog/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/author/index.js';
+import { ArticleCard } from '/home/runner/work/sidmontu.coding.blog/sidmontu.coding.blog/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/article-card/index.js';
 import { ToCPrevNext } from '/home/runner/work/sidmontu.coding.blog/sidmontu.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js';
 
 const components = {
   'ykCVsWaeTpJzYm6tdEOS7g==': ToCToggle,
   '3PzQaM1/clyKiq01xrRdZQ==': DarkModeSwitch,
   'gTt6MFwUGscknvRRolPHyg==': ConfigTransport,
-  'xoQ4xmQK9FlV+hUs5uRZZg==': ArticleCard,
   '6/NYG2SWw/cL9+hEdluW7A==': Author,
+  'xoQ4xmQK9FlV+hUs5uRZZg==': ArticleCard,
   'acEq0SWBGO/hh7DNt7UifQ==': ToCPrevNext
 };
 
