@@ -1,7 +1,6 @@
 [Home](/)
-[Sample Blog Post](/sample-blog-post)
+[GridWorld](/GridWorld)
+[Handout-10](/Handout-10)
+[Anagram Checker](/AnagramChecker)
+[ASCII Art](/ASCII)
 
-<br><br>
-
-To add links to your other posts,
-simply modify contents of `posts/_toc.md`
